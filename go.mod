@@ -1,3 +1,3 @@
-module github.com/ergSey/utils/v1.0.0
+module github.com/ergSey/utils
 
 go 1.23.1
